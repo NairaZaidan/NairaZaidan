@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Naira 👋
 
-<!--
-**NairaZaidan/NairaZaidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science & AI Student  
+🤖 Passionate about building intelligent systems and solving real-world problems with AI  
 
-Here are some ideas to get you started:
+## 🚀 Interests
+- 🧠 Machine Learning
+- 🔥 Deep Learning
+- 🎮 Reinforcement Learning
+- ✨ Generative AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- 🐍 Python
+- 🗄️ SQL
+- 📊 Pandas
+- 🤖 Scikit-learn
+- 🔗 LangChain
+- 📚 FAISS
+
+## 📌 Featured Projects
+- 💳 Banking Customer Segmentation
+- 💬 Banking RAG Chatbot
+- 🏦 Loan Approval Prediction
+- 🎯 Q-Learning GridWorld Agent
+
+## 🌱 Currently Learning
+- 🧩 LLM Applications
+- 📈 Advanced Machine Learning
+- ⚙️ MLOps
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/naira-zaidan
+
+---
+⭐ Always learning, building, and exploring AI.
