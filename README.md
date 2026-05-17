@@ -17,12 +17,6 @@
 - 🔗 LangChain
 - 📚 FAISS
 
-## 📌 Featured Projects
-- 💳 Banking Customer Segmentation
-- 💬 Banking RAG Chatbot
-- 🏦 Loan Approval Prediction
-- 🎯 Q-Learning GridWorld Agent
-
 ## 🌱 Currently Learning
 - 🧩 LLM Applications
 - 📈 Advanced Machine Learning
